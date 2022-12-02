@@ -36,6 +36,11 @@ Databases
     <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/Valhalla-Wait">
+    <img src="https://skillicons.dev/icons?i=postgres" />
+  </a>
+</p>
 
 <h3 align="center">
 Tools
@@ -56,7 +61,7 @@ Tools
 </p>
 
 <h2 align="center">
-  📕 My top projects
+  📕 My Portfolio
 </h2>
 <p align="center">
 <a href="https://github.com/Valhalla-Wait/Task-Tracker-App"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Valhalla-Wait&repo=Task-Tracker-App&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
