@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Valhalla-Wait"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF428F&background=FFFFFF00&center=true&width=540&lines=React/Node+Developer.;2+years+of+coding+experience." alt="Typing SVG" /></a>
+<a href="https://github.com/Valhalla-Wait"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=FF428F&background=FFFFFF00&center=true&width=540&lines=React/Node+Developer.;2+years+of+coding+experience." alt="Typing SVG" /></a>
 </p>
 
 <h2 align="center">
