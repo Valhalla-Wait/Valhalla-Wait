@@ -24,7 +24,7 @@ Frameworks and libraries
 </h3>
 <p align="center">
   <a href="https://github.com/Valhalla-Wait">
-    <img src="https://skillicons.dev/icons?i=react,redux,nextjs,express,nest,scss,styledcomponents,jest" />
+    <img src="https://skillicons.dev/icons?i=graphql,react,redux,nextjs,express,nest,scss,styledcomponents,jest" />
   </a>
 </p>
 
@@ -40,18 +40,18 @@ Databases
 <h3 align="center">
 Tools
 </h3>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Valhalla-Wait">
     <img src="https://skillicons.dev/icons?i=docker,git" />
   </a>
-</p>
+</p> -->
 
 <h3 align="center">
   What I am currently learning / improving on
 </h3>
 <p align="center">
   <a href="https://github.com/Valhalla-Wait">
-    <img src="https://skillicons.dev/icons?i=graphql,mongodb,tailwind" />
+    <img src="https://skillicons.dev/icons?i=graphql" />
   </a>
 </p>
 
