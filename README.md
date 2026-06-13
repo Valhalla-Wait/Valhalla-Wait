@@ -15,7 +15,7 @@ Programming and markup languages
 </h3>
 <p align="center">
   <a href="https://github.com/Valhalla-Wait">
-    <img src="https://skillicons.dev/icons?i=go,ts,nodejs,js,html,css,php" />
+    <img src="https://skillicons.dev/icons?i=go,ts,nodejs,js,html,css" />
   </a>
 </p>
 
@@ -33,7 +33,7 @@ Databases
 </h3>
 <p align="center">
   <a href="https://github.com/Valhalla-Wait">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,clickhouse" />
   </a>
 </p>
 
