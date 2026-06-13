@@ -33,7 +33,7 @@ Databases
 </h3>
 <p align="center">
   <a href="https://github.com/Valhalla-Wait">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,clickhouse" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,redis" />
   </a>
 </p>
 
