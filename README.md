@@ -40,20 +40,20 @@ Databases
 <h3 align="center">
 Tools
 </h3>
-<!-- <p align="center">
+<p align="center">
   <a href="https://github.com/Valhalla-Wait">
     <img src="https://skillicons.dev/icons?i=docker,git" />
   </a>
-</p> -->
+</p>
 
-<h3 align="center">
+<!-- <h3 align="center">
   What I am currently learning / improving on
 </h3>
 <p align="center">
   <a href="https://github.com/Valhalla-Wait">
     <img src="https://skillicons.dev/icons?i=graphql" />
   </a>
-</p>
+</p> -->
 
 <h2 align="center">
   📕 My Portfolio
