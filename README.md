@@ -33,7 +33,7 @@ Databases
 </h3>
 <p align="center">
   <a href="https://github.com/Valhalla-Wait">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,redis" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,redis,aws" />
   </a>
 </p>
 
@@ -42,7 +42,7 @@ Tools
 </h3>
 <p align="center">
   <a href="https://github.com/Valhalla-Wait">
-    <img src="https://skillicons.dev/icons?i=docker,git" />
+    <img src="https://skillicons.dev/icons?i=kafka,kubernetes,docker,grafana,prometheus,postman,git" />
   </a>
 </p>
 
