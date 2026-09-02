@@ -15,7 +15,7 @@ Programming and markup languages
 </h3>
 <p align="center">
   <a href="https://github.com/Valhalla-Wait">
-    <img src="https://skillicons.dev/icons?i=go,ts,nodejs,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=go,nodejs,ts,js,html,css" />
   </a>
 </p>
 
